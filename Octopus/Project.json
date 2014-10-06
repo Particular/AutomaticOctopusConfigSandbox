@@ -9,8 +9,8 @@
     "DonorPackageStepId": null,
     "Template": "#{Octopus.Version.LastMajor}.#{Octopus.Version.LastMinor}.#{Octopus.Version.NextPatch}"
   },
-  "Name": "FIXME",
-  "Description": "FIXME",
+  "Name": "%PROJECT_NAME%",
+  "Description": "",
   "IsDisabled": false,
   "ProjectGroupId": "ProjectGroups-99",
 }
